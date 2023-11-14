@@ -47,6 +47,6 @@ export default {
   },
 
   env: {
-    PAYSTACK_KEY: 'pk_test_38f43315f774378e9f4ee9d62c53c0dc1a06eaea'
+    PAYSTACK_KEY: 'pk_test_'
   }
 }
